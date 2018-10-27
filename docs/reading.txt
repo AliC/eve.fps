@@ -1,1 +1,4 @@
-https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files?view=aspnetcore-2.1
+wwwroot folder in mvc
+    https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files?view=aspnetcore-2.1
+azure ci/cd
+    https://azure.microsoft.com/en-gb/solutions/architecture/cicd-for-containers/
