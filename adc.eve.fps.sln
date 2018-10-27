@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adc.eve.fps.ui.web", "adc.eve.fps.ui.web\adc.eve.fps.ui.web.csproj", "{E0BD376A-08D9-45AE-BE3F-AC1D20B0CA85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src\adc.eve.fps.ui.web", "src\adc.eve.fps.ui.web\adc.eve.fps.ui.web.csproj", "{E0BD376A-08D9-45AE-BE3F-AC1D20B0CA85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
